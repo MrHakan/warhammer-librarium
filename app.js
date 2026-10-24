@@ -22,7 +22,7 @@ function showIntel(){ document.body.classList.remove('info-hidden','focus-mode')
 function getEntry(id) { const entry=catalog.find(e=>e.id===id); return entry&&store.prefs.lang==='en'&&entry.en?{...entry,...entry.en}:entry; }
 function uiLocale(){return store.prefs.lang==='en'?'en-GB':'tr';}
 function changeLanguage(value){
- store.prefs.lang=value==='en'?'en':'tr';save();$('languageSelect').value=store.prefs.lang;
+ store.prefs.lang=value==='en'?'en':'tr';store.prefs.languageChosen=true;save();$('languageSelect').value=store.prefs.lang;
  window.LibrariumI18n.setLanguage(store.prefs.lang);
  const readingTop=$('readingScroll').scrollTop;
  renderBooks();
@@ -246,7 +246,7 @@ $('importData').onchange=async e=>{
  }catch(err){toast(err.message);}finally{e.target.value='';}
 };
 async function init(){
- store.prefs.lang=store.prefs.lang==='en'?'en':'tr';$('languageSelect').value=store.prefs.lang;
+ store.prefs.lang=store.prefs.languageChosen&&store.prefs.lang==='tr'?'tr':'en';$('languageSelect').value=store.prefs.lang;save();
  window.LibrariumI18n.start(store.prefs.lang);
  applyPrefs();
  try{const result=await Promise.all([api('/catalog.json'),loadLibrary(),api('/api/media').catch(()=>({entries:{}}))]);catalog=result[0];mediaEntries=result[2].entries||{};compileTerms();renderIntel();const available=books.filter(b=>b.imported);if(available.length)await openBook(available.some(b=>b.id===store.lastBook)?store.lastBook:available[0].id);else showImportWelcome();}

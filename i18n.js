@@ -1,7 +1,7 @@
 'use strict';
 // Only interface text is localised. Book text, quotations and user notes are excluded.
 window.LibrariumI18n = (() => {
- let language='tr', scheduled=false, observer;
+ let language='en', scheduled=false, observer;
  const textSources=new WeakMap(), attributeSources=new WeakMap();
  const dictionary=new Map(Object.entries({
   '＋ PDF ekle':'＋ Add PDFs','TARAYICI KİTAPLIĞI':'BROWSER LIBRARY','Kitabını yanında getir.':'Bring your own book.',
