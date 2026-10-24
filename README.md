@@ -12,7 +12,7 @@ Wiki source links remain available. This static version uses prepared wiki excer
 
 ## Hosting
 
-Publish the root of the main branch using GitHub Pages. `.nojekyll` keeps static files unchanged. Every asset path supports project sites under a subdirectory. No build step, backend or API keys are required.
+GitHub Pages is deployed by `.github/workflows/pages.yml` on each push to `main`. The workflow checks that no personal PDFs, extracted book caches or local configuration are present before publishing. `.nojekyll` keeps static files unchanged. Every asset path supports project sites under a subdirectory. No application backend or API keys are required.
 
 ## Sources and rights
 

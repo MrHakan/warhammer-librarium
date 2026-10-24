@@ -1,0 +1,48 @@
+name: Publish Librarium to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v6
+      - name: Verify that personal book files are excluded
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          root = Path('.')
+          forbidden = [p for p in root.rglob('*') if p.is_file() and p.suffix.lower() in {'.pdf', '.epub'}]
+          assert not forbidden, 'Personal book files must not be published'
+          assert not (root / 'data').exists(), 'Local book caches must not be published'
+          assert not (root / 'config.json').exists(), 'Local configuration must not be published'
+          library = json.loads((root / 'library.json').read_text())
+          assert all('pages' not in book and 'bytes' not in book and 'path' not in book for book in library)
+          print('Publication contains reader assets and metadata only.')
+          PY
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload the static reader
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Publish
+        id: deployment
+        uses: actions/deploy-pages@v4
