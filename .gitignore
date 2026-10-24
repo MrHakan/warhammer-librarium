@@ -1,0 +1,7 @@
+*.pdf
+*.epub
+*.zip
+/data/
+/config.json
+/.env*
+/__pycache__/

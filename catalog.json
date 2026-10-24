@@ -1,0 +1,2609 @@
+[
+  {
+    "id": "loken",
+    "name": "Garviel Loken",
+    "aliases": [
+      "Garviel Loken",
+      "Garviel",
+      "Loken"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · X. Bölük",
+    "summary": "Luna Wolves'un 10. Bölük kaptanı. Horus Rising'in merkezindeki Astartes subaylarından biridir; olayları onun gözünden takip ederiz.",
+    "wiki": "Garviel Loken",
+    "lex": "Garviel_Loken",
+    "image": "/assets/loken.jpg",
+    "related": [
+      "luna",
+      "mournival",
+      "torgaddon"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · 10th Company",
+      "summary": "Captain of the Luna Wolves' 10th Company. One of the central Astartes officers in Horus Rising, whose perspective guides much of the story."
+    }
+  },
+  {
+    "id": "horus",
+    "name": "Horus Lupercal",
+    "aliases": [
+      "Horus Lupercal",
+      "Horus",
+      "Lupercal"
+    ],
+    "kind": "Primarch",
+    "group": "Luna Wolves · XVI. Lejyon",
+    "summary": "Luna Wolves'un primarch'ı ve İmparator'un Büyük Haçlı Seferi'ni yönetmekle görevlendirdiği Warmaster.",
+    "wiki": "Horus",
+    "lex": "Horus_Lupercal",
+    "related": [
+      "luna",
+      "warmaster",
+      "emperor"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Luna Wolves · XVI Legion",
+      "summary": "Primarch of the Luna Wolves and the Warmaster appointed by the Emperor to lead the Great Crusade."
+    }
+  },
+  {
+    "id": "abaddon",
+    "name": "Ezekyle Abaddon",
+    "aliases": [
+      "Ezekyle Abaddon",
+      "Abaddon",
+      "Ezekyle"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · I. Bölük",
+    "summary": "Luna Wolves'un Birinci Kaptanı. Horus'un yakın çevresindeki kıdemli komutanlardan ve Mournival üyelerindendir.",
+    "wiki": "Abaddon",
+    "lex": "Ezekyle_Abaddon",
+    "related": [
+      "horus",
+      "mournival",
+      "luna"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · 1st Company",
+      "summary": "First Captain of the Luna Wolves. A senior commander in Horus' inner circle and a member of the Mournival."
+    }
+  },
+  {
+    "id": "torgaddon",
+    "name": "Tarik Torgaddon",
+    "aliases": [
+      "Tarik Torgaddon",
+      "Torgaddon",
+      "Tarik"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · II. Bölük",
+    "summary": "Luna Wolves'un 2. Bölük kaptanı ve Mournival üyesi. Keskin mizahı ve savaşçılığıyla tanınır.",
+    "wiki": "Tarik Torgaddon",
+    "lex": "Tarik_Torgaddon",
+    "related": [
+      "loken",
+      "mournival"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · 2nd Company",
+      "summary": "Captain of the Luna Wolves' 2nd Company and a member of the Mournival, known for his sharp humour and skill in battle."
+    }
+  },
+  {
+    "id": "aximand",
+    "name": "Horus Aximand",
+    "aliases": [
+      "Horus Aximand",
+      "Aximand",
+      "Little Horus"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · V. Bölük",
+    "summary": "Luna Wolves'un 5. Bölük kaptanı. Primarch'ına benzerliği nedeniyle Küçük Horus diye anılır.",
+    "wiki": "Horus Aximand",
+    "related": [
+      "mournival",
+      "horus"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · 5th Company",
+      "summary": "Captain of the Luna Wolves' 5th Company. Called Little Horus because of his resemblance to his primarch."
+    }
+  },
+  {
+    "id": "mournival",
+    "name": "Mournival",
+    "aliases": [
+      "Mournival"
+    ],
+    "kind": "Kurum",
+    "group": "Luna Wolves · Danışma konseyi",
+    "summary": "Horus'a danışmanlık yapan dört kaptanın oluşturduğu gayriresmî kurul. Lejyonun resmî komuta zincirinin dışında yer alır.",
+    "wiki": "Mournival",
+    "lex": "Mournival",
+    "related": [
+      "horus",
+      "loken",
+      "abaddon",
+      "torgaddon"
+    ],
+    "en": {
+      "kind": "Organisation",
+      "group": "Luna Wolves · Advisory council",
+      "summary": "An informal council of four captains who advise Horus. It stands outside the Legion's official chain of command."
+    }
+  },
+  {
+    "id": "luna",
+    "name": "Luna Wolves",
+    "aliases": [
+      "Luna Wolves",
+      "Luna Wolf"
+    ],
+    "kind": "Lejyon",
+    "group": "XVI. Lejyon",
+    "summary": "Horus'un komutasındaki XVI. Space Marine Lejyonu. Büyük Haçlı Seferi sırasında beyaz zırhları ve kurt simgeleriyle tanınırlar.",
+    "wiki": "Luna Wolves",
+    "lex": "Luna_Wolves",
+    "related": [
+      "horus",
+      "astartes",
+      "cthonia"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "XVI Legion",
+      "summary": "The XVI Space Marine Legion, commanded by Horus. During the Great Crusade they are known for their white armour and wolf insignia."
+    }
+  },
+  {
+    "id": "sons",
+    "name": "Sons of Horus",
+    "aliases": [
+      "Sons of Horus",
+      "Son of Horus"
+    ],
+    "kind": "Lejyon",
+    "group": "XVI. Lejyon",
+    "summary": "XVI. Lejyon ile ilişkili ad. İsmin hikâyedeki bağlamını kitaptan öğrenmek için ayrıntılı wiki içeriğini kapalı tutabilirsiniz.",
+    "wiki": "Sons of Horus",
+    "related": [
+      "luna",
+      "horus"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "XVI Legion",
+      "summary": "A name associated with the XVI Legion. Leave the detailed wiki entry closed if you would prefer to discover its context through the novels."
+    }
+  },
+  {
+    "id": "emperor",
+    "name": "Emperor of Mankind",
+    "aliases": [
+      "Emperor of Mankind",
+      "the Emperor",
+      "Emperor"
+    ],
+    "kind": "Karakter",
+    "group": "Imperium · Terra",
+    "summary": "İnsanlık İmparatorluğu'nun kurucusu ve primarch'ların yaratıcısı. Büyük Haçlı Seferi'nin arkasındaki merkezî otoritedir. Bazı sahnelerde aynı unvan başka bir hükümdar için de kullanılır; bağlamı kontrol edin.",
+    "wiki": "Emperor of Mankind",
+    "related": [
+      "imperium",
+      "terra",
+      "primarch"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Imperium · Terra",
+      "summary": "Founder of the Imperium of Man and creator of the primarchs. The central authority behind the Great Crusade. In some scenes, the same title refers to a different ruler; check the context."
+    }
+  },
+  {
+    "id": "astartes",
+    "name": "Adeptus Astartes",
+    "aliases": [
+      "Adeptus Astartes",
+      "Astartes",
+      "Space Marines",
+      "Space Marine"
+    ],
+    "kind": "Terim",
+    "group": "İnsanlığın genetik savaşçıları",
+    "summary": "Genetik ve cerrahi müdahalelerle güçlendirilmiş savaşçılar. Bu dönemde primarch'larının komutasındaki büyük lejyonlar hâlinde savaşırlar.",
+    "wiki": "Space Marines",
+    "related": [
+      "primarch",
+      "powerarmour",
+      "geneseed"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Humanity’s genetically enhanced warriors",
+      "summary": "Warriors enhanced through genetic and surgical modification. In this era they fight in great Legions commanded by their primarchs."
+    }
+  },
+  {
+    "id": "primarch",
+    "name": "Primarch",
+    "aliases": [
+      "primarchs",
+      "primarch"
+    ],
+    "kind": "Terim",
+    "group": "Lejyonların genetik ataları",
+    "summary": "İmparator'un yarattığı olağanüstü güçlü komutanlardan her biri. Astartes lejyonlarının genetik mirası kendi primarch'ına dayanır.",
+    "wiki": "Primarch",
+    "related": [
+      "emperor",
+      "astartes",
+      "horus"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Genetic forebears of the Legions",
+      "summary": "One of the extraordinarily powerful commanders created by the Emperor. Each Astartes Legion's genetic heritage derives from its own primarch."
+    }
+  },
+  {
+    "id": "warmaster",
+    "name": "Warmaster",
+    "aliases": [
+      "Warmaster",
+      "War master"
+    ],
+    "kind": "Unvan",
+    "group": "Büyük Haçlı Seferi · Yüksek komuta",
+    "summary": "Büyük Haçlı Seferi'nin askerî yönetimi için Horus'a verilen başkomutanlık unvanı.",
+    "wiki": "Warmaster",
+    "related": [
+      "horus",
+      "crusade"
+    ],
+    "en": {
+      "kind": "Title",
+      "group": "Great Crusade · High command",
+      "summary": "The title of supreme commander granted to Horus to direct the military forces of the Great Crusade."
+    }
+  },
+  {
+    "id": "imperium",
+    "name": "Imperium of Man",
+    "aliases": [
+      "Imperium of Man",
+      "Imperium"
+    ],
+    "kind": "Kurum",
+    "group": "İnsanlık İmparatorluğu",
+    "summary": "Terra merkezli insan uygarlığının yıldızlararası imparatorluğu. Büyük Haçlı Seferi, dağılmış insan dünyalarını bu yönetim altında toplar.",
+    "wiki": "Imperium of Man",
+    "related": [
+      "terra",
+      "emperor",
+      "crusade"
+    ],
+    "en": {
+      "kind": "Organisation",
+      "group": "Imperium of Man",
+      "summary": "The interstellar empire of human civilisation, centred on Terra. The Great Crusade brings scattered human worlds under its rule."
+    }
+  },
+  {
+    "id": "crusade",
+    "name": "Great Crusade",
+    "aliases": [
+      "Great Crusade"
+    ],
+    "kind": "Olay",
+    "group": "Galaktik sefer",
+    "summary": "İmparator'un, insanlığın dağılmış dünyalarını yeniden bir araya getirmek için başlattığı galaktik askerî sefer.",
+    "wiki": "Great Crusade",
+    "related": [
+      "emperor",
+      "warmaster",
+      "imperium"
+    ],
+    "en": {
+      "kind": "Event",
+      "group": "Galactic campaign",
+      "summary": "The Emperor's galactic military campaign to reunite the scattered worlds of humanity."
+    }
+  },
+  {
+    "id": "terra",
+    "name": "Terra",
+    "aliases": [
+      "Holy Terra",
+      "Terra"
+    ],
+    "kind": "Yer",
+    "group": "Sol sistemi",
+    "summary": "Dünya gezegeninin Warhammer evrenindeki adı. İnsanlığın anayurdu ve İmparatorluk yönetiminin merkezidir.",
+    "wiki": "Terra",
+    "related": [
+      "emperor",
+      "imperium"
+    ],
+    "en": {
+      "kind": "Place",
+      "group": "Sol System",
+      "summary": "The name for Earth in the Warhammer setting: humanity's homeworld and the centre of Imperial government."
+    }
+  },
+  {
+    "id": "cthonia",
+    "name": "Cthonia",
+    "aliases": [
+      "Cthonia",
+      "Cthonian"
+    ],
+    "kind": "Yer",
+    "group": "Luna Wolves · Köken",
+    "summary": "Horus ve pek çok Luna Wolves savaşçısıyla bağlantılı, maden tünelleri ve sert çete kültürüyle tanınan dünya.",
+    "wiki": "Cthonia",
+    "related": [
+      "horus",
+      "luna",
+      "loken"
+    ],
+    "en": {
+      "kind": "Place",
+      "group": "Luna Wolves · Origins",
+      "summary": "A world associated with Horus and many Luna Wolves warriors, known for its mining tunnels and harsh gang culture."
+    }
+  },
+  {
+    "id": "vengeful",
+    "name": "Vengeful Spirit",
+    "aliases": [
+      "Vengeful Spirit"
+    ],
+    "kind": "Gemi",
+    "group": "Horus'un sancak gemisi",
+    "summary": "Horus'un devasa sancak gemisi. Komuta toplantılarının ve sefer filosundaki birçok olayın mekânıdır.",
+    "wiki": "Vengeful Spirit",
+    "related": [
+      "horus",
+      "luna"
+    ],
+    "en": {
+      "kind": "Vessel",
+      "group": "Horus’ flagship",
+      "summary": "Horus' enormous flagship, the setting for command meetings and many events within the expeditionary fleet."
+    }
+  },
+  {
+    "id": "keeler",
+    "name": "Euphrati Keeler",
+    "aliases": [
+      "Euphrati Keeler",
+      "Keeler",
+      "Euphrati"
+    ],
+    "kind": "Karakter",
+    "group": "Remembrancer · İmajist",
+    "summary": "63. Sefer Filosu'na bağlı bir remembrancer. Seferin insanlarını ve olaylarını görüntülerle kaydeden bir imajisttir.",
+    "wiki": "Euphrati Keeler",
+    "related": [
+      "remembrancer",
+      "sindermann",
+      "karkasy"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Remembrancer · Imagist",
+      "summary": "A remembrancer attached to the 63rd Expeditionary Fleet. As an imagist, she records the people and events of the campaign in images."
+    }
+  },
+  {
+    "id": "sindermann",
+    "name": "Kyril Sindermann",
+    "aliases": [
+      "Kyril Sindermann",
+      "Sindermann",
+      "Kyril"
+    ],
+    "kind": "Karakter",
+    "group": "63. Sefer Filosu · İteratör",
+    "summary": "Sefer filosundaki kıdemli iteratör. İmparatorluk düşüncesini anlatır; Loken'la felsefe ve inanç üzerine konuşur.",
+    "wiki": "Kyril Sindermann",
+    "related": [
+      "iterator",
+      "loken"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "63rd Expeditionary Fleet · Iterator",
+      "summary": "A senior iterator with the expeditionary fleet. He explains Imperial thought and discusses philosophy and belief with Loken."
+    }
+  },
+  {
+    "id": "karkasy",
+    "name": "Ignace Karkasy",
+    "aliases": [
+      "Ignace Karkasy",
+      "Karkasy",
+      "Ignace"
+    ],
+    "kind": "Karakter",
+    "group": "Remembrancer · Şair",
+    "summary": "Büyük Haçlı Seferi'ni kayda geçirmek için filoya katılan bir şair ve remembrancer.",
+    "wiki": "Ignace Karkasy",
+    "related": [
+      "remembrancer",
+      "keeler"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Remembrancer · Poet",
+      "summary": "A poet and remembrancer who joins the fleet to record the Great Crusade."
+    }
+  },
+  {
+    "id": "mersadie",
+    "name": "Mersadie Oliton",
+    "aliases": [
+      "Mersadie Oliton",
+      "Mersadie",
+      "Oliton"
+    ],
+    "kind": "Karakter",
+    "group": "Remembrancer · Belgeselci",
+    "summary": "Sefer filosunda görev yapan bir remembrancer ve belgeselci. Loken'ın çevresindeki sivil gözlemcilerdendir.",
+    "wiki": "Mersadie Oliton",
+    "related": [
+      "remembrancer",
+      "loken"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Remembrancer · Documentarist",
+      "summary": "A remembrancer and documentarist serving with the expeditionary fleet, among the civilian observers around Loken."
+    }
+  },
+  {
+    "id": "remembrancer",
+    "name": "Remembrancer",
+    "aliases": [
+      "remembrancers",
+      "remembrancer"
+    ],
+    "kind": "Terim",
+    "group": "Seferin sanatçıları ve tarihçileri",
+    "summary": "Büyük Haçlı Seferi'ni kaydetmekle görevlendirilen sanatçı, şair, yazar ve imajistlerin ortak adı.",
+    "wiki": "Remembrancer",
+    "related": [
+      "keeler",
+      "karkasy",
+      "mersadie"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Artists and chroniclers of the Crusade",
+      "summary": "A collective term for the artists, poets, writers and imagists commissioned to record the Great Crusade."
+    }
+  },
+  {
+    "id": "iterator",
+    "name": "Iterator",
+    "aliases": [
+      "iterators",
+      "iterator"
+    ],
+    "kind": "Terim",
+    "group": "İmparatorluk düşüncesinin anlatıcıları",
+    "summary": "İmparatorluk ideallerini, mantığını ve laik dünya görüşünü halka ve yeni katılan dünyalara aktaran eğitimli hatip.",
+    "wiki": "Iterator",
+    "related": [
+      "sindermann",
+      "truth"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Orators of Imperial thought",
+      "summary": "A trained orator who explains Imperial ideals, reasoning and secular thought to the public and newly compliant worlds."
+    }
+  },
+  {
+    "id": "truth",
+    "name": "Imperial Truth",
+    "aliases": [
+      "Imperial Truth"
+    ],
+    "kind": "Terim",
+    "group": "İmparatorluk düşüncesi",
+    "summary": "Büyük Haçlı Seferi döneminde akıl ve bilimi öne çıkaran; tanrıları ve batıl inançları reddeden resmî öğreti.",
+    "wiki": "Imperial Truth",
+    "related": [
+      "iterator",
+      "crusade"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Imperial thought",
+      "summary": "The official doctrine of the Great Crusade, promoting reason and science while rejecting gods and superstition."
+    }
+  },
+  {
+    "id": "maloghurst",
+    "name": "Maloghurst",
+    "aliases": [
+      "Maloghurst"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · Yaver",
+    "summary": "Horus'un yaveri. Primarch'ın çevresindeki idarî ve siyasî işlerde önemli bir rol üstlenir.",
+    "wiki": "Maloghurst",
+    "related": [
+      "horus",
+      "luna"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · Equerry",
+      "summary": "Horus' equerry, who plays an important part in administrative and political affairs around the primarch."
+    }
+  },
+  {
+    "id": "qruze",
+    "name": "Iacton Qruze",
+    "aliases": [
+      "Iacton Qruze",
+      "Qruze",
+      "Half-heard"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · Kıdemli kaptan",
+    "summary": "Luna Wolves'un eski kuşağından kıdemli bir kaptan. Half-heard lakabıyla anılır.",
+    "wiki": "Iacton Qruze",
+    "related": [
+      "luna",
+      "loken"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · Veteran captain",
+      "summary": "A senior captain from the older generation of the Luna Wolves, known by the nickname the Half-heard."
+    }
+  },
+  {
+    "id": "sejanus",
+    "name": "Hastur Sejanus",
+    "aliases": [
+      "Hastur Sejanus",
+      "Sejanus"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · Kaptan",
+    "summary": "Horus'un yakın çevresindeki Luna Wolves kaptanlarından biri. Adı özellikle Mournival'ın geçmişiyle bağlantılıdır.",
+    "wiki": "Hastur Sejanus",
+    "related": [
+      "mournival",
+      "horus"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · Captain",
+      "summary": "A Luna Wolves captain in Horus' inner circle. His name is particularly associated with the Mournival's history."
+    }
+  },
+  {
+    "id": "erebus",
+    "name": "Erebus",
+    "aliases": [
+      "Erebus"
+    ],
+    "kind": "Karakter",
+    "group": "Word Bearers · Chaplain",
+    "summary": "Word Bearers Lejyonu'nun kıdemli din görevlilerinden biri. Horus'un sefer filosunu ziyaret eden Astartesler arasındadır.",
+    "wiki": "Erebus",
+    "related": [
+      "wordbearers",
+      "lorgar"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Word Bearers · Chaplain",
+      "summary": "A senior Chaplain of the Word Bearers Legion and one of the Astartes visitors to Horus' expeditionary fleet."
+    }
+  },
+  {
+    "id": "dorn",
+    "name": "Rogal Dorn",
+    "aliases": [
+      "Rogal Dorn",
+      "Dorn"
+    ],
+    "kind": "Primarch",
+    "group": "Imperial Fists · VII. Lejyon",
+    "summary": "Imperial Fists'in primarch'ı. Savunma, tahkimat ve disiplinle özdeşleşen bir komutandır.",
+    "wiki": "Rogal Dorn",
+    "related": [
+      "fists",
+      "emperor"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Imperial Fists · VII Legion",
+      "summary": "Primarch of the Imperial Fists, associated with defence, fortification and discipline."
+    }
+  },
+  {
+    "id": "sanguinius",
+    "name": "Sanguinius",
+    "aliases": [
+      "Sanguinius"
+    ],
+    "kind": "Primarch",
+    "group": "Blood Angels · IX. Lejyon",
+    "summary": "Blood Angels'ın kanatlı primarch'ı. Horus'un kardeşleri arasındaki önemli komutanlardan biridir.",
+    "wiki": "Sanguinius",
+    "related": [
+      "bloodangels",
+      "primarch"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Blood Angels · IX Legion",
+      "summary": "The winged primarch of the Blood Angels and an important commander among Horus' brothers."
+    }
+  },
+  {
+    "id": "fulgrim",
+    "name": "Fulgrim",
+    "aliases": [
+      "Fulgrim",
+      "Phoenician"
+    ],
+    "kind": "Primarch",
+    "group": "Emperor's Children · III. Lejyon",
+    "summary": "Emperor's Children'ın primarch'ı. Sanat, güzellik ve her alanda kusursuzluk arayışıyla tanınır.",
+    "wiki": "Fulgrim",
+    "related": [
+      "children",
+      "ferrus",
+      "primarch"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Emperor's Children · III Legion",
+      "summary": "Primarch of the Emperor's Children, known for his appreciation of art and beauty and his pursuit of perfection in every field."
+    }
+  },
+  {
+    "id": "ferrus",
+    "name": "Ferrus Manus",
+    "aliases": [
+      "Ferrus Manus",
+      "Ferrus",
+      "Gorgon"
+    ],
+    "kind": "Primarch",
+    "group": "Iron Hands · X. Lejyon",
+    "summary": "Iron Hands'in primarch'ı. Metal elleri ve üstün demircilik yeteneğiyle tanınır.",
+    "wiki": "Ferrus Manus",
+    "related": [
+      "ironhands",
+      "fulgrim"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Iron Hands · X Legion",
+      "summary": "Primarch of the Iron Hands, known for his metal hands and exceptional skill as a smith."
+    }
+  },
+  {
+    "id": "mortarion",
+    "name": "Mortarion",
+    "aliases": [
+      "Mortarion"
+    ],
+    "kind": "Primarch",
+    "group": "Death Guard · XIV. Lejyon",
+    "summary": "Death Guard'ın primarch'ı. Barbarus dünyası ve lejyonunun dayanıklılık anlayışıyla yakından ilişkilidir.",
+    "wiki": "Mortarion",
+    "related": [
+      "deathguard",
+      "barbarus"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Death Guard · XIV Legion",
+      "summary": "Primarch of the Death Guard, closely associated with Barbarus and his Legion's emphasis on endurance."
+    }
+  },
+  {
+    "id": "angron",
+    "name": "Angron",
+    "aliases": [
+      "Angron"
+    ],
+    "kind": "Primarch",
+    "group": "World Eaters · XII. Lejyon",
+    "summary": "World Eaters'ın primarch'ı. Gladyatör geçmişi ve yakın dövüşteki yıkıcılığıyla tanınır.",
+    "wiki": "Angron",
+    "related": [
+      "worldeaters",
+      "primarch"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "World Eaters · XII Legion",
+      "summary": "Primarch of the World Eaters, known for his gladiatorial past and destructive prowess in close combat."
+    }
+  },
+  {
+    "id": "magnus",
+    "name": "Magnus the Red",
+    "aliases": [
+      "Magnus the Red",
+      "Magnus"
+    ],
+    "kind": "Primarch",
+    "group": "Thousand Sons · XV. Lejyon",
+    "summary": "Thousand Sons'un primarch'ı. Psişik gücü ve bilgiye olan ilgisiyle tanınır.",
+    "wiki": "Magnus the Red",
+    "related": [
+      "thousandsons",
+      "psyker"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Thousand Sons · XV Legion",
+      "summary": "Primarch of the Thousand Sons, known for his psychic power and interest in knowledge."
+    }
+  },
+  {
+    "id": "russ",
+    "name": "Leman Russ",
+    "aliases": [
+      "Leman Russ",
+      "Russ"
+    ],
+    "kind": "Primarch",
+    "group": "Space Wolves · VI. Lejyon",
+    "summary": "Space Wolves'un primarch'ı; Fenris'in savaşçı gelenekleriyle bağlantılı komutan.",
+    "wiki": "Leman Russ",
+    "related": [
+      "spacewolves",
+      "primarch"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Space Wolves · VI Legion",
+      "summary": "Primarch of the Space Wolves, a commander closely connected to the warrior traditions of Fenris."
+    }
+  },
+  {
+    "id": "lorgar",
+    "name": "Lorgar Aurelian",
+    "aliases": [
+      "Lorgar Aurelian",
+      "Lorgar"
+    ],
+    "kind": "Primarch",
+    "group": "Word Bearers · XVII. Lejyon",
+    "summary": "Word Bearers'ın primarch'ı. İnanç ve hitabet, kendisinin ve lejyonunun kimliğinde önemli yer tutar.",
+    "wiki": "Lorgar",
+    "related": [
+      "wordbearers",
+      "erebus"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Word Bearers · XVII Legion",
+      "summary": "Primarch of the Word Bearers. Faith and oratory are important to both his identity and that of his Legion."
+    }
+  },
+  {
+    "id": "guilliman",
+    "name": "Roboute Guilliman",
+    "aliases": [
+      "Roboute Guilliman",
+      "Guilliman"
+    ],
+    "kind": "Primarch",
+    "group": "Ultramarines · XIII. Lejyon",
+    "summary": "Ultramarines'ın primarch'ı. Ultramar bölgesi, askerî düzen ve yönetim yeteneğiyle ilişkilidir.",
+    "wiki": "Roboute Guilliman",
+    "related": [
+      "ultramarines",
+      "primarch"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Ultramarines · XIII Legion",
+      "summary": "Primarch of the Ultramarines, associated with Ultramar, military organisation and administrative ability."
+    }
+  },
+  {
+    "id": "corax",
+    "name": "Corvus Corax",
+    "aliases": [
+      "Corvus Corax",
+      "Corax"
+    ],
+    "kind": "Primarch",
+    "group": "Raven Guard · XIX. Lejyon",
+    "summary": "Raven Guard'ın primarch'ı. Gizlilik ve ani saldırılar, lejyonunun savaş anlayışının öne çıkan unsurlarıdır.",
+    "wiki": "Corvus Corax",
+    "related": [
+      "ravenguard",
+      "primarch"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Raven Guard · XIX Legion",
+      "summary": "Primarch of the Raven Guard, whose approach to warfare emphasises stealth and sudden attacks."
+    }
+  },
+  {
+    "id": "curze",
+    "name": "Konrad Curze",
+    "aliases": [
+      "Konrad Curze",
+      "Night Haunter",
+      "Curze"
+    ],
+    "kind": "Primarch",
+    "group": "Night Lords · VIII. Lejyon",
+    "summary": "Night Lords'un primarch'ı. Night Haunter adıyla da tanınır.",
+    "wiki": "Konrad Curze",
+    "related": [
+      "nightlords",
+      "primarch"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Night Lords · VIII Legion",
+      "summary": "Primarch of the Night Lords, also known as the Night Haunter."
+    }
+  },
+  {
+    "id": "vulkan",
+    "name": "Vulkan",
+    "aliases": [
+      "Vulkan"
+    ],
+    "kind": "Primarch",
+    "group": "Salamanders · XVIII. Lejyon",
+    "summary": "Salamanders'ın primarch'ı. Nocturne dünyası ve üstün zanaatkârlık geleneğiyle bağlantılıdır.",
+    "wiki": "Vulkan",
+    "related": [
+      "salamanders",
+      "primarch"
+    ],
+    "en": {
+      "kind": "Primarch",
+      "group": "Salamanders · XVIII Legion",
+      "summary": "Primarch of the Salamanders, associated with Nocturne and its tradition of exceptional craftsmanship."
+    }
+  },
+  {
+    "id": "garro",
+    "name": "Nathaniel Garro",
+    "aliases": [
+      "Nathaniel Garro",
+      "Garro",
+      "Nathaniel"
+    ],
+    "kind": "Karakter",
+    "group": "Death Guard · VII. Büyük Bölük",
+    "summary": "Death Guard'ın 7. Büyük Bölüğü'nün Battle-Captain'i. Terra kökenli tecrübeli bir Astartes subayıdır.",
+    "wiki": "Nathaniel Garro",
+    "lex": "Nathaniel_Garro",
+    "related": [
+      "deathguard",
+      "eisenstein",
+      "tarvitz"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Death Guard · 7th Great Company",
+      "summary": "Battle-Captain of the Death Guard's 7th Great Company. An experienced Astartes officer of Terran origin."
+    }
+  },
+  {
+    "id": "tarvitz",
+    "name": "Saul Tarvitz",
+    "aliases": [
+      "Saul Tarvitz",
+      "Tarvitz",
+      "Saul"
+    ],
+    "kind": "Karakter",
+    "group": "Emperor's Children · X. Bölük",
+    "summary": "Emperor's Children'ın 10. Bölük kaptanı. Görevi ve askerleri için sorumluluk duygusuyla tanınan bir hat subayıdır.",
+    "wiki": "Saul Tarvitz",
+    "lex": "Saul_Tarvitz",
+    "related": [
+      "children",
+      "garro",
+      "torgaddon"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Emperor's Children · 10th Company",
+      "summary": "Captain of the Emperor's Children's 10th Company. A line officer known for his sense of responsibility towards his duty and his warriors."
+    }
+  },
+  {
+    "id": "eidolon",
+    "name": "Eidolon",
+    "aliases": [
+      "Eidolon"
+    ],
+    "kind": "Karakter",
+    "group": "Emperor's Children · Lord Commander",
+    "summary": "Emperor's Children'ın yüksek rütbeli komutanlarından biri. Lord Commander unvanını taşır.",
+    "wiki": "Eidolon",
+    "related": [
+      "children",
+      "fulgrim"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Emperor's Children · Lord Commander",
+      "summary": "A senior commander of the Emperor's Children who holds the title of Lord Commander."
+    }
+  },
+  {
+    "id": "lucius",
+    "name": "Lucius",
+    "aliases": [
+      "Lucius"
+    ],
+    "kind": "Karakter",
+    "group": "Emperor's Children · Kılıç ustası",
+    "summary": "Emperor's Children saflarındaki yetenekli ve kendine güvenen bir kılıç ustası.",
+    "wiki": "Lucius the Eternal",
+    "related": [
+      "children",
+      "tarvitz"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Emperor's Children · Swordsman",
+      "summary": "A talented and self-confident swordsman of the Emperor's Children."
+    }
+  },
+  {
+    "id": "fabius",
+    "name": "Fabius",
+    "aliases": [
+      "Fabius Bile",
+      "Fabius"
+    ],
+    "kind": "Karakter",
+    "group": "Emperor's Children · Apothecary",
+    "summary": "Emperor's Children'ın apothecary subaylarından biri. Tıp ve Astartes fizyolojisiyle ilgilenir.",
+    "wiki": "Fabius Bile",
+    "related": [
+      "children",
+      "apothecary"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Emperor's Children · Apothecary",
+      "summary": "An Apothecary of the Emperor's Children, concerned with medicine and Astartes physiology."
+    }
+  },
+  {
+    "id": "tarviston",
+    "name": "Solomon Demeter",
+    "aliases": [
+      "Solomon Demeter",
+      "Demeter",
+      "Solomon"
+    ],
+    "kind": "Karakter",
+    "group": "Emperor's Children · II. Bölük",
+    "summary": "Emperor's Children'ın 2. Bölük kaptanı. Fulgrim romanındaki Astartes subaylarından biridir.",
+    "wiki": "Solomon Demeter",
+    "related": [
+      "children",
+      "fulgrim"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Emperor's Children · 2nd Company",
+      "summary": "Captain of the Emperor's Children's 2nd Company and one of the Astartes officers in Fulgrim."
+    }
+  },
+  {
+    "id": "kaesoron",
+    "name": "Julius Kaesoron",
+    "aliases": [
+      "Julius Kaesoron",
+      "Kaesoron",
+      "Julius"
+    ],
+    "kind": "Karakter",
+    "group": "Emperor's Children · I. Bölük",
+    "summary": "Emperor's Children'ın Birinci Kaptanı ve Fulgrim'in kıdemli subaylarından biri.",
+    "wiki": "Julius Kaesoron",
+    "related": [
+      "children",
+      "fulgrim"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Emperor's Children · 1st Company",
+      "summary": "First Captain of the Emperor's Children and one of Fulgrim's senior officers."
+    }
+  },
+  {
+    "id": "vairosean",
+    "name": "Marius Vairosean",
+    "aliases": [
+      "Marius Vairosean",
+      "Vairosean",
+      "Marius"
+    ],
+    "kind": "Karakter",
+    "group": "Emperor's Children · III. Bölük",
+    "summary": "Emperor's Children'ın 3. Bölük kaptanı; Fulgrim romanının komutan kadrosundadır.",
+    "wiki": "Marius Vairosean",
+    "related": [
+      "children",
+      "fulgrim"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Emperor's Children · 3rd Company",
+      "summary": "Captain of the Emperor's Children's 3rd Company and a member of the command cast in Fulgrim."
+    }
+  },
+  {
+    "id": "temeter",
+    "name": "Huron Temeter",
+    "aliases": [
+      "Huron Temeter",
+      "Temeter"
+    ],
+    "kind": "Karakter",
+    "group": "Death Guard",
+    "summary": "Death Guard’ın 4. Büyük Bölüğü’nün kaptanı.",
+    "wiki": "Huron Temeter",
+    "related": [
+      "deathguard"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Death Guard",
+      "summary": "Captain of the Death Guard's 4th Great Company."
+    }
+  },
+  {
+    "id": "grulgor",
+    "name": "Ignatius Grulgor",
+    "aliases": [
+      "Ignatius Grulgor",
+      "Grulgor"
+    ],
+    "kind": "Karakter",
+    "group": "Death Guard · Komutan",
+    "summary": "Death Guard subayı. The Flight of the Eisenstein'ın askerî kadrosundaki isimlerden biridir.",
+    "wiki": "Ignatius Grulgor",
+    "related": [
+      "deathguard",
+      "garro"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Death Guard · Commander",
+      "summary": "A Death Guard officer in the military cast of The Flight of the Eisenstein."
+    }
+  },
+  {
+    "id": "typhon",
+    "name": "Calas Typhon",
+    "aliases": [
+      "Calas Typhon",
+      "Typhon"
+    ],
+    "kind": "Karakter",
+    "group": "Death Guard · Birinci Kaptan",
+    "summary": "Death Guard'ın Birinci Kaptanı ve Mortarion'un kıdemli subaylarından biri.",
+    "wiki": "Typhus",
+    "related": [
+      "deathguard",
+      "mortarion"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Death Guard · First Captain",
+      "summary": "First Captain of the Death Guard and one of Mortarion's senior officers."
+    }
+  },
+  {
+    "id": "voyen",
+    "name": "Meric Voyen",
+    "aliases": [
+      "Meric Voyen",
+      "Voyen"
+    ],
+    "kind": "Karakter",
+    "group": "Death Guard · Apothecary",
+    "summary": "Death Guard'ın 7. Büyük Bölüğü ile bağlantılı apothecary.",
+    "wiki": "Meric Voyen",
+    "related": [
+      "garro",
+      "deathguard",
+      "apothecary"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Death Guard · Apothecary",
+      "summary": "An Apothecary associated with the Death Guard's 7th Great Company."
+    }
+  },
+  {
+    "id": "decius",
+    "name": "Solun Decius",
+    "aliases": [
+      "Solun Decius",
+      "Decius"
+    ],
+    "kind": "Karakter",
+    "group": "Death Guard",
+    "summary": "The Flight of the Eisenstein'da Garro'nun çevresinde yer alan Death Guard savaşçısı.",
+    "wiki": "Solun Decius",
+    "related": [
+      "garro",
+      "deathguard"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Death Guard",
+      "summary": "A Death Guard warrior serving around Garro in The Flight of the Eisenstein."
+    }
+  },
+  {
+    "id": "kaleb",
+    "name": "Kaleb Arin",
+    "aliases": [
+      "Kaleb Arin",
+      "Kaleb"
+    ],
+    "kind": "Karakter",
+    "group": "Garro'nun hizmetkârı",
+    "summary": "Nathaniel Garro'nun yanında görev yapan insan housecarl ve yaver.",
+    "wiki": "Kaleb Arin",
+    "related": [
+      "garro"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Garro’s attendant",
+      "summary": "The human housecarl and attendant who serves Nathaniel Garro."
+    }
+  },
+  {
+    "id": "eisenstein",
+    "name": "Eisenstein",
+    "aliases": [
+      "Eisenstein"
+    ],
+    "kind": "Gemi",
+    "group": "Death Guard · Fırkateyn",
+    "summary": "Death Guard filosuna bağlı bir fırkateyn. Serinin dördüncü kitabına adını verir.",
+    "wiki": "Eisenstein",
+    "related": [
+      "deathguard",
+      "garro"
+    ],
+    "en": {
+      "kind": "Vessel",
+      "group": "Death Guard · Frigate",
+      "summary": "A frigate of the Death Guard fleet which gives the fourth novel in the series its name."
+    }
+  },
+  {
+    "id": "children",
+    "name": "Emperor's Children",
+    "aliases": [
+      "Emperor's Children",
+      "Emperor’s Children"
+    ],
+    "kind": "Lejyon",
+    "group": "III. Lejyon",
+    "summary": "Fulgrim'in komutasındaki III. Astartes Lejyonu. Kusursuzluk ve mükemmellik ideali, lejyon kültürünün merkezindedir.",
+    "wiki": "Emperor's Children",
+    "related": [
+      "fulgrim",
+      "tarvitz",
+      "eidolon"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "III Legion",
+      "summary": "The III Astartes Legion, commanded by Fulgrim. The pursuit of perfection is central to its culture."
+    }
+  },
+  {
+    "id": "deathguard",
+    "name": "Death Guard",
+    "aliases": [
+      "Death Guard",
+      "Dusk Raiders"
+    ],
+    "kind": "Lejyon",
+    "group": "XIV. Lejyon",
+    "summary": "Mortarion'un komutasındaki XIV. Lejyon. Dayanıklılık, yıpratma savaşı ve zorlu koşullarda çarpışmakla tanınır.",
+    "wiki": "Death Guard",
+    "related": [
+      "mortarion",
+      "garro",
+      "barbarus"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "XIV Legion",
+      "summary": "The XIV Legion, commanded by Mortarion. Known for endurance, attritional warfare and fighting in harsh environments."
+    }
+  },
+  {
+    "id": "worldeaters",
+    "name": "World Eaters",
+    "aliases": [
+      "World Eaters",
+      "War Hounds"
+    ],
+    "kind": "Lejyon",
+    "group": "XII. Lejyon",
+    "summary": "Angron'un komutasındaki XII. Lejyon. Yakın dövüş ve saldırgan savaş anlayışıyla tanınır.",
+    "wiki": "World Eaters",
+    "related": [
+      "angron",
+      "kharn"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "XII Legion",
+      "summary": "The XII Legion, commanded by Angron. Known for close combat and an aggressive approach to warfare."
+    }
+  },
+  {
+    "id": "wordbearers",
+    "name": "Word Bearers",
+    "aliases": [
+      "Word Bearers"
+    ],
+    "kind": "Lejyon",
+    "group": "XVII. Lejyon",
+    "summary": "Lorgar'ın komutasındaki XVII. Lejyon. İnanç, ritüel ve hitabet kültüründe belirgindir.",
+    "wiki": "Word Bearers",
+    "related": [
+      "lorgar",
+      "erebus"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "XVII Legion",
+      "summary": "The XVII Legion, commanded by Lorgar. Faith, ritual and oratory feature prominently in its culture."
+    }
+  },
+  {
+    "id": "fists",
+    "name": "Imperial Fists",
+    "aliases": [
+      "Imperial Fists"
+    ],
+    "kind": "Lejyon",
+    "group": "VII. Lejyon",
+    "summary": "Rogal Dorn'un komutasındaki VII. Lejyon. Kale savunması ve kuşatma savaşındaki ustalığıyla tanınır.",
+    "wiki": "Imperial Fists",
+    "related": [
+      "dorn",
+      "sigismund"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "VII Legion",
+      "summary": "The VII Legion, commanded by Rogal Dorn. Known for its mastery of fortification and siege warfare."
+    }
+  },
+  {
+    "id": "bloodangels",
+    "name": "Blood Angels",
+    "aliases": [
+      "Blood Angels"
+    ],
+    "kind": "Lejyon",
+    "group": "IX. Lejyon",
+    "summary": "Sanguinius'un komutasındaki IX. Lejyon.",
+    "wiki": "Blood Angels",
+    "related": [
+      "sanguinius"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "IX Legion",
+      "summary": "The IX Legion, commanded by Sanguinius."
+    }
+  },
+  {
+    "id": "ironhands",
+    "name": "Iron Hands",
+    "aliases": [
+      "Iron Hands"
+    ],
+    "kind": "Lejyon",
+    "group": "X. Lejyon",
+    "summary": "Ferrus Manus'un komutasındaki X. Lejyon. Teknoloji ve metalin gücüne duydukları saygıyla tanınırlar.",
+    "wiki": "Iron Hands",
+    "related": [
+      "ferrus"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "X Legion",
+      "summary": "The X Legion, commanded by Ferrus Manus. Known for its reverence for technology and the strength of metal."
+    }
+  },
+  {
+    "id": "thousandsons",
+    "name": "Thousand Sons",
+    "aliases": [
+      "Thousand Sons"
+    ],
+    "kind": "Lejyon",
+    "group": "XV. Lejyon",
+    "summary": "Magnus'un komutasındaki XV. Lejyon. Psişik yetenekler ve bilgi arayışı lejyon kimliğinde önemlidir.",
+    "wiki": "Thousand Sons",
+    "related": [
+      "magnus",
+      "psyker"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "XV Legion",
+      "summary": "The XV Legion, commanded by Magnus. Psychic abilities and the pursuit of knowledge are important to its identity."
+    }
+  },
+  {
+    "id": "spacewolves",
+    "name": "Space Wolves",
+    "aliases": [
+      "Space Wolves"
+    ],
+    "kind": "Lejyon",
+    "group": "VI. Lejyon",
+    "summary": "Leman Russ'un komutasındaki VI. Lejyon. Fenris'in savaşçı geleneklerini taşırlar.",
+    "wiki": "Space Wolves",
+    "related": [
+      "russ"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "VI Legion",
+      "summary": "The VI Legion, commanded by Leman Russ. Its warriors carry the martial traditions of Fenris."
+    }
+  },
+  {
+    "id": "ultramarines",
+    "name": "Ultramarines",
+    "aliases": [
+      "Ultramarines"
+    ],
+    "kind": "Lejyon",
+    "group": "XIII. Lejyon",
+    "summary": "Roboute Guilliman'ın komutasındaki XIII. Lejyon. Ultramar'ın dünyalarıyla bağlantılıdır.",
+    "wiki": "Ultramarines",
+    "related": [
+      "guilliman"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "XIII Legion",
+      "summary": "The XIII Legion, commanded by Roboute Guilliman and associated with the worlds of Ultramar."
+    }
+  },
+  {
+    "id": "ravenguard",
+    "name": "Raven Guard",
+    "aliases": [
+      "Raven Guard"
+    ],
+    "kind": "Lejyon",
+    "group": "XIX. Lejyon",
+    "summary": "Corvus Corax'ın komutasındaki XIX. Lejyon. Gizlilik, keşif ve ani saldırılarda uzmanlaşır.",
+    "wiki": "Raven Guard",
+    "related": [
+      "corax"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "XIX Legion",
+      "summary": "The XIX Legion, commanded by Corvus Corax. It specialises in stealth, reconnaissance and sudden attacks."
+    }
+  },
+  {
+    "id": "salamanders",
+    "name": "Salamanders",
+    "aliases": [
+      "Salamanders"
+    ],
+    "kind": "Lejyon",
+    "group": "XVIII. Lejyon",
+    "summary": "Vulkan'ın komutasındaki XVIII. Lejyon. Nocturne kökenli savaşçı ve zanaatkâr kültürünü taşır.",
+    "wiki": "Salamanders",
+    "related": [
+      "vulkan"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "XVIII Legion",
+      "summary": "The XVIII Legion, commanded by Vulkan, carrying Nocturne's culture of warriors and artisans."
+    }
+  },
+  {
+    "id": "nightlords",
+    "name": "Night Lords",
+    "aliases": [
+      "Night Lords"
+    ],
+    "kind": "Lejyon",
+    "group": "VIII. Lejyon",
+    "summary": "Konrad Curze'ün komutasındaki VIII. Lejyon. Korkuyu bir savaş aracı olarak kullanmasıyla tanınır.",
+    "wiki": "Night Lords",
+    "related": [
+      "curze"
+    ],
+    "en": {
+      "kind": "Legion",
+      "group": "VIII Legion",
+      "summary": "The VIII Legion, commanded by Konrad Curze. Known for using fear as a weapon of war."
+    }
+  },
+  {
+    "id": "kharn",
+    "name": "Khârn",
+    "aliases": [
+      "Khârn",
+      "Kharn"
+    ],
+    "kind": "Karakter",
+    "group": "World Eaters",
+    "summary": "World Eaters'ın kıdemli subaylarından ve Angron'un yakın çevresindeki savaşçılardan biri.",
+    "wiki": "Khârn",
+    "related": [
+      "worldeaters",
+      "angron"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "World Eaters",
+      "summary": "A senior World Eaters officer and a warrior in Angron's inner circle."
+    }
+  },
+  {
+    "id": "sigismund",
+    "name": "Sigismund",
+    "aliases": [
+      "Sigismund"
+    ],
+    "kind": "Karakter",
+    "group": "Imperial Fists · Birinci Kaptan",
+    "summary": "Imperial Fists'in Birinci Kaptanı. Kılıç ustalığıyla tanınır.",
+    "wiki": "Sigismund",
+    "related": [
+      "fists",
+      "dorn"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Imperial Fists · First Captain",
+      "summary": "First Captain of the Imperial Fists, renowned for his swordsmanship."
+    }
+  },
+  {
+    "id": "malcador",
+    "name": "Malcador the Sigillite",
+    "aliases": [
+      "Malcador the Sigillite",
+      "Malcador",
+      "Sigillite"
+    ],
+    "kind": "Karakter",
+    "group": "Terra · İmparator'un danışmanı",
+    "summary": "İmparator'un en yakın danışmanlarından biri. Terra'daki yönetimde önemli görevler üstlenir.",
+    "wiki": "Malcador the Sigillite",
+    "related": [
+      "terra",
+      "emperor"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Terra · Adviser to the Emperor",
+      "summary": "One of the Emperor's closest advisers, with important responsibilities in the government of Terra."
+    }
+  },
+  {
+    "id": "isstvaan",
+    "name": "Isstvan III",
+    "aliases": [
+      "Isstvan III",
+      "Istvaan III",
+      "Isstvan"
+    ],
+    "kind": "Yer",
+    "group": "Isstvan sistemi",
+    "summary": "Horus Heresy romanlarında adı geçen bir gezegen ve yıldız sistemi. Olayların ayrıntıları kitap ilerledikçe açılır.",
+    "wiki": "Isstvan III",
+    "related": [],
+    "en": {
+      "kind": "Place",
+      "group": "Isstvan system",
+      "summary": "A planet and star system mentioned in the Horus Heresy novels. The significance of events there unfolds as you read."
+    }
+  },
+  {
+    "id": "davin",
+    "name": "Davin",
+    "aliases": [
+      "Davin",
+      "Davinite"
+    ],
+    "kind": "Yer",
+    "group": "Büyük Haçlı Seferi rotası",
+    "summary": "Sefer filolarının ziyaret ettiği dünyalardan biri. Yerel gelenekleri ve savaşçı kültürüyle anlatıda yer alır.",
+    "wiki": "Davin",
+    "related": [
+      "crusade"
+    ],
+    "en": {
+      "kind": "Place",
+      "group": "Great Crusade route",
+      "summary": "One of the worlds visited by the expeditionary fleets, featuring local traditions and a warrior culture."
+    }
+  },
+  {
+    "id": "barbarus",
+    "name": "Barbarus",
+    "aliases": [
+      "Barbarus"
+    ],
+    "kind": "Yer",
+    "group": "Death Guard · Köken",
+    "summary": "Mortarion'un yetiştiği, zehirli çevre koşullarıyla tanınan dünya.",
+    "wiki": "Barbarus",
+    "related": [
+      "mortarion",
+      "deathguard"
+    ],
+    "en": {
+      "kind": "Place",
+      "group": "Death Guard · Origins",
+      "summary": "The world on which Mortarion grew up, known for its poisonous environment."
+    }
+  },
+  {
+    "id": "interex",
+    "name": "Interex",
+    "aliases": [
+      "interex"
+    ],
+    "kind": "Kurum",
+    "group": "Yıldızlararası uygarlık",
+    "summary": "Büyük Haçlı Seferi sırasında karşılaşılan bir insan uygarlığı. İmparatorluk'tan farklı toplumsal ve kültürel geleneklere sahiptir.",
+    "wiki": "Interex",
+    "related": [
+      "crusade",
+      "kinebrach"
+    ],
+    "en": {
+      "kind": "Organisation",
+      "group": "Interstellar civilisation",
+      "summary": "A human civilisation encountered during the Great Crusade, with social and cultural traditions distinct from those of the Imperium."
+    }
+  },
+  {
+    "id": "kinebrach",
+    "name": "Kinebrach",
+    "aliases": [
+      "Kinebrach"
+    ],
+    "kind": "Tür",
+    "group": "Interex ile bağlantılı xenos",
+    "summary": "Interex uygarlığıyla bağlantılı, insan olmayan bir tür.",
+    "wiki": "Kinebrach",
+    "related": [
+      "interex",
+      "xenos"
+    ],
+    "en": {
+      "kind": "Species",
+      "group": "Xenos associated with the Interex",
+      "summary": "A non-human species associated with the Interex civilisation."
+    }
+  },
+  {
+    "id": "murder",
+    "name": "Murder",
+    "aliases": [
+      "Murder"
+    ],
+    "kind": "Yer",
+    "group": "Sefer filosunun verdiği ad",
+    "summary": "Horus Rising'de karşılaşılan tehlikeli bir dünyaya sefer kuvvetlerinin verdiği ad. İngilizce sözcüğün her kullanımı gezegeni ifade etmeyebilir.",
+    "wiki": "Murder",
+    "related": [
+      "megarachnid"
+    ],
+    "en": {
+      "kind": "Place",
+      "group": "Expeditionary fleet designation",
+      "summary": "The expeditionary forces' name for a dangerous world encountered in Horus Rising. Not every use of the English word refers to the planet."
+    }
+  },
+  {
+    "id": "megarachnid",
+    "name": "Megarachnid",
+    "aliases": [
+      "megarachnids",
+      "megarachnid"
+    ],
+    "kind": "Tür",
+    "group": "Murder · Xenos",
+    "summary": "Murder dünyasıyla bağlantılı, örümceğimsi görünüşe sahip tehlikeli bir xenos türü.",
+    "wiki": "Megarachnids",
+    "related": [
+      "murder",
+      "xenos"
+    ],
+    "en": {
+      "kind": "Species",
+      "group": "Murder · Xenos",
+      "summary": "A dangerous, spider-like xenos species associated with the world called Murder."
+    }
+  },
+  {
+    "id": "sixtythree",
+    "name": "Sixty-Three-Nineteen",
+    "aliases": [
+      "Sixty-Three-Nineteen",
+      "63-19"
+    ],
+    "kind": "Yer",
+    "group": "63. Sefer Filosu",
+    "summary": "Horus Rising'in başında karşılaşılan insan dünyasına verilen sefer kayıt numarası.",
+    "wiki": "Sixty-Three-Nineteen",
+    "related": [
+      "crusade",
+      "loken"
+    ],
+    "en": {
+      "kind": "Place",
+      "group": "63rd Expeditionary Fleet",
+      "summary": "The expeditionary designation given to the human world encountered at the beginning of Horus Rising."
+    }
+  },
+  {
+    "id": "warp",
+    "name": "Warp",
+    "aliases": [
+      "Immaterium",
+      "the warp",
+      "warp"
+    ],
+    "kind": "Terim",
+    "group": "İmparatorluk kozmolojisi",
+    "summary": "Maddî uzaydan farklı bir boyut. Yıldızlararası yolculuk ve psişik güçler bu alanla ilişkilidir.",
+    "wiki": "Warp",
+    "related": [
+      "navigator",
+      "psyker",
+      "gellar"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Imperial cosmology",
+      "summary": "A dimension separate from material space, associated with interstellar travel and psychic powers."
+    }
+  },
+  {
+    "id": "chaos",
+    "name": "Chaos",
+    "aliases": [
+      "Chaos"
+    ],
+    "kind": "Terim",
+    "group": "Warp ile bağlantılı güçler",
+    "summary": "Warhammer evreninde Warp ile ilişkili güçler ve etkiler için kullanılan ad. Kitaplardaki keşif duygusunu korumak için ayrıntıları kapalı tutabilirsiniz.",
+    "wiki": "Chaos",
+    "related": [
+      "warp",
+      "daemon"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Powers associated with the Warp",
+      "summary": "A name for powers and influences associated with the Warp. Leave the detailed entry closed if you would prefer to discover more through the novels."
+    }
+  },
+  {
+    "id": "daemon",
+    "name": "Daemon",
+    "aliases": [
+      "daemons",
+      "daemon",
+      "demons",
+      "demon"
+    ],
+    "kind": "Terim",
+    "group": "Warp varlıkları",
+    "summary": "Warp ile bağlantılı varlıklar için kullanılan ad. İnsanların bu varlıkları nasıl anladığı döneme ve bakış açısına göre değişir.",
+    "wiki": "Daemon",
+    "related": [
+      "warp",
+      "chaos"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Warp entities",
+      "summary": "A term for entities associated with the Warp. How humans understand them depends on the era and the observer's perspective."
+    }
+  },
+  {
+    "id": "psyker",
+    "name": "Psyker",
+    "aliases": [
+      "psykers",
+      "psyker",
+      "psychic"
+    ],
+    "kind": "Terim",
+    "group": "Psişik yetenek",
+    "summary": "Warp'la etkileşime girerek psişik yetenekler kullanabilen kişi.",
+    "wiki": "Psyker",
+    "related": [
+      "warp",
+      "astropath"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Psychic ability",
+      "summary": "A person able to interact with the Warp and use psychic abilities."
+    }
+  },
+  {
+    "id": "astropath",
+    "name": "Astropath",
+    "aliases": [
+      "astropaths",
+      "astropath"
+    ],
+    "kind": "Terim",
+    "group": "Yıldızlararası haberleşme",
+    "summary": "Yıldızlararası mesafelerde psişik mesaj iletimi için eğitilmiş psyker.",
+    "wiki": "Astropath",
+    "related": [
+      "psyker",
+      "warp"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Interstellar communication",
+      "summary": "A psyker trained to transmit psychic messages across interstellar distances."
+    }
+  },
+  {
+    "id": "navigator",
+    "name": "Navigator",
+    "aliases": [
+      "Navigators",
+      "Navigator"
+    ],
+    "kind": "Terim",
+    "group": "Warp seyrüseferi",
+    "summary": "Gemilerin Warp içindeki yolculuğuna rehberlik eden, özel kalıtsal yeteneklere sahip kişi.",
+    "wiki": "Navigator",
+    "related": [
+      "warp",
+      "astronomican"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Warp navigation",
+      "summary": "A person with specialised hereditary abilities who guides ships on their journeys through the Warp."
+    }
+  },
+  {
+    "id": "astronomican",
+    "name": "Astronomican",
+    "aliases": [
+      "Astronomican"
+    ],
+    "kind": "Terim",
+    "group": "Terra · Psişik işaret",
+    "summary": "Navigatorların Warp yolculuklarında yön bulmasına yardımcı olan, Terra kaynaklı psişik işaret.",
+    "wiki": "Astronomican",
+    "related": [
+      "navigator",
+      "terra"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Terra · Psychic beacon",
+      "summary": "A psychic beacon originating from Terra which helps Navigators find their way through the Warp."
+    }
+  },
+  {
+    "id": "gellar",
+    "name": "Gellar Field",
+    "aliases": [
+      "Gellar field",
+      "Geller field",
+      "Gellar fields"
+    ],
+    "kind": "Teknoloji",
+    "group": "Gemi koruma sistemi",
+    "summary": "Bir geminin Warp yolculuğu sırasında maddî gerçeklik alanını korumaya yarayan teknoloji.",
+    "wiki": "Gellar Field",
+    "related": [
+      "warp",
+      "navigator"
+    ],
+    "en": {
+      "kind": "Technology",
+      "group": "Ship protection system",
+      "summary": "Technology that preserves an area of material reality around a ship during travel through the Warp."
+    }
+  },
+  {
+    "id": "bolter",
+    "name": "Bolter",
+    "aliases": [
+      "boltguns",
+      "boltgun",
+      "bolters",
+      "bolter"
+    ],
+    "kind": "Silah",
+    "group": "Astartes silahları",
+    "summary": "Patlayıcı, kendi itişli mühimmat ateşleyen silah ailesi. Space Marine birliklerinin karakteristik silahlarından biridir.",
+    "wiki": "Bolter",
+    "related": [
+      "astartes",
+      "powerarmour"
+    ],
+    "en": {
+      "kind": "Weapon",
+      "group": "Astartes weaponry",
+      "summary": "A family of weapons firing explosive, self-propelled ammunition. One of the characteristic weapons of Space Marine forces."
+    }
+  },
+  {
+    "id": "chainsword",
+    "name": "Chainsword",
+    "aliases": [
+      "chainswords",
+      "chainsword"
+    ],
+    "kind": "Silah",
+    "group": "Yakın dövüş",
+    "summary": "Kesici ağzı boyunca hareket eden dişli zincire sahip motorlu yakın dövüş silahı.",
+    "wiki": "Chainsword",
+    "related": [
+      "astartes"
+    ],
+    "en": {
+      "kind": "Weapon",
+      "group": "Close combat",
+      "summary": "A powered close-combat weapon with a moving, toothed chain along its cutting edge."
+    }
+  },
+  {
+    "id": "powerarmour",
+    "name": "Power Armour",
+    "aliases": [
+      "power armour",
+      "power armor"
+    ],
+    "kind": "Teknoloji",
+    "group": "Astartes teçhizatı",
+    "summary": "Kullanıcının hareketini motor sistemleriyle destekleyen koruyucu zırh. Astartes sürümleri yaşam desteği ve çeşitli sensörler içerir.",
+    "wiki": "Power Armour",
+    "related": [
+      "astartes",
+      "bolter"
+    ],
+    "en": {
+      "kind": "Technology",
+      "group": "Astartes equipment",
+      "summary": "Protective armour with powered systems that assist the wearer's movement. Astartes versions include life support and various sensors."
+    }
+  },
+  {
+    "id": "dreadnought",
+    "name": "Dreadnought",
+    "aliases": [
+      "Dreadnoughts",
+      "Dreadnought"
+    ],
+    "kind": "Teknoloji",
+    "group": "Astartes savaş yürüyücüsü",
+    "summary": "Ağır yaralı bir Astartes'in hayatını sürdürüp savaşabildiği, zırhlı ve ağır silahlı yürüyücü.",
+    "wiki": "Dreadnought",
+    "related": [
+      "astartes"
+    ],
+    "en": {
+      "kind": "Technology",
+      "group": "Astartes war walker",
+      "summary": "A heavily armed, armoured walker that allows a gravely wounded Astartes to survive and continue fighting."
+    }
+  },
+  {
+    "id": "thunderhawk",
+    "name": "Thunderhawk",
+    "aliases": [
+      "Thunderhawks",
+      "Thunderhawk"
+    ],
+    "kind": "Araç",
+    "group": "Astartes hava aracı",
+    "summary": "Space Marine birliklerinin asker ve teçhizat taşıma ile ateş desteğinde kullandığı ağır hava aracı.",
+    "wiki": "Thunderhawk",
+    "related": [
+      "astartes"
+    ],
+    "en": {
+      "kind": "Vehicle",
+      "group": "Astartes aircraft",
+      "summary": "A heavy Space Marine aircraft used for transporting warriors and equipment and providing fire support."
+    }
+  },
+  {
+    "id": "apothecary",
+    "name": "Apothecary",
+    "aliases": [
+      "apothecaries",
+      "apothecary"
+    ],
+    "kind": "Unvan",
+    "group": "Astartes tıbbı",
+    "summary": "Lejyonun tıbbi uzmanı. Savaşçıları tedavi eder ve gene-seed mirasının korunmasında görev alır.",
+    "wiki": "Apothecary",
+    "related": [
+      "geneseed",
+      "astartes"
+    ],
+    "en": {
+      "kind": "Title",
+      "group": "Astartes medicine",
+      "summary": "A Legion's medical specialist, responsible for treating warriors and helping preserve its gene-seed heritage."
+    }
+  },
+  {
+    "id": "geneseed",
+    "name": "Gene-seed",
+    "aliases": [
+      "gene-seed",
+      "geneseed",
+      "gene seed"
+    ],
+    "kind": "Terim",
+    "group": "Astartes biyolojisi",
+    "summary": "Space Marine dönüşümünde kullanılan genetik organ ve miras bütünü. Bir lejyonun primarch'ıyla biyolojik bağını taşır.",
+    "wiki": "Gene-Seed",
+    "related": [
+      "primarch",
+      "apothecary"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Astartes biology",
+      "summary": "The genetic organs and inheritance used in creating a Space Marine, carrying a Legion's biological connection to its primarch."
+    }
+  },
+  {
+    "id": "mechanicum",
+    "name": "Mechanicum",
+    "aliases": [
+      "Adeptus Mechanicus",
+      "Mechanicum",
+      "Mechanicus"
+    ],
+    "kind": "Kurum",
+    "group": "Mars · Teknoloji kültü",
+    "summary": "Mars merkezli teknoloji ve üretim örgütü. Büyük Haçlı Seferi döneminde Mechanicum adıyla anılır.",
+    "wiki": "Adeptus Mechanicus",
+    "related": [
+      "mars",
+      "servitor",
+      "titan"
+    ],
+    "en": {
+      "kind": "Organisation",
+      "group": "Mars · Cult of technology",
+      "summary": "The Mars-based organisation responsible for technology and manufacturing. During the Great Crusade it is known as the Mechanicum."
+    }
+  },
+  {
+    "id": "mars",
+    "name": "Mars",
+    "aliases": [
+      "Mars"
+    ],
+    "kind": "Yer",
+    "group": "Sol sistemi · Mechanicum",
+    "summary": "Mechanicum'un merkezi olan gezegen; insanlığın en önemli sanayi ve teknoloji merkezlerinden biri.",
+    "wiki": "Mars",
+    "related": [
+      "mechanicum",
+      "terra"
+    ],
+    "en": {
+      "kind": "Place",
+      "group": "Sol System · Mechanicum",
+      "summary": "The home of the Mechanicum and one of humanity's most important centres of industry and technology."
+    }
+  },
+  {
+    "id": "servitor",
+    "name": "Servitor",
+    "aliases": [
+      "servitors",
+      "servitor"
+    ],
+    "kind": "Terim",
+    "group": "Biyomekanik işgücü",
+    "summary": "Belirli görevler için bedeni ve sinir sistemi mekanik bileşenlerle dönüştürülmüş insan tabanlı hizmet birimi.",
+    "wiki": "Servitor",
+    "related": [
+      "mechanicum"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Biomechanical labour",
+      "summary": "A human-based labour unit whose body and nervous system have been modified with mechanical components for specific tasks."
+    }
+  },
+  {
+    "id": "titan",
+    "name": "Titan",
+    "aliases": [
+      "Titans",
+      "Titan"
+    ],
+    "kind": "Teknoloji",
+    "group": "Mechanicum · Savaş makinesi",
+    "summary": "Çok sayıda mürettebat tarafından yönetilen devasa savaş yürüyücüsü. Aynı sözcük Sol sistemindeki uydu için de kullanılır; bağlama dikkat edin.",
+    "wiki": "Titan",
+    "related": [
+      "mechanicum"
+    ],
+    "en": {
+      "kind": "Technology",
+      "group": "Mechanicum · War engine",
+      "summary": "An enormous war walker operated by a crew. The same word is also the name of a moon in the Sol System; check the context."
+    }
+  },
+  {
+    "id": "xenos",
+    "name": "Xenos",
+    "aliases": [
+      "xenos"
+    ],
+    "kind": "Terim",
+    "group": "İmparatorluk terminolojisi",
+    "summary": "İnsan olmayan akıllı türler ve onlarla ilgili unsurlar için kullanılan İmparatorluk terimi.",
+    "wiki": "Xenos",
+    "related": [
+      "interex",
+      "megarachnid"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Imperial terminology",
+      "summary": "An Imperial term for non-human intelligent species and things associated with them."
+    }
+  },
+  {
+    "id": "vox",
+    "name": "Vox",
+    "aliases": [
+      "vox-link",
+      "vox"
+    ],
+    "kind": "Teknoloji",
+    "group": "Haberleşme",
+    "summary": "Radyo ve sesli haberleşme sistemleri için kullanılan genel ad.",
+    "wiki": "Vox-caster",
+    "related": [],
+    "en": {
+      "kind": "Technology",
+      "group": "Communication",
+      "summary": "A general term for radio and voice-communication systems."
+    }
+  },
+  {
+    "id": "auspex",
+    "name": "Auspex",
+    "aliases": [
+      "auspex",
+      "auspices"
+    ],
+    "kind": "Teknoloji",
+    "group": "Algılama ve tarama",
+    "summary": "Çevreyi, hareketi veya çeşitli enerji izlerini taramakta kullanılan sensör cihazı.",
+    "wiki": "Auspex",
+    "related": [],
+    "en": {
+      "kind": "Technology",
+      "group": "Detection and scanning",
+      "summary": "A sensor device used to scan the surroundings, detect movement or trace various forms of energy."
+    }
+  },
+  {
+    "id": "lodge",
+    "name": "Warrior Lodge",
+    "aliases": [
+      "warrior lodges",
+      "warrior lodge"
+    ],
+    "kind": "Kurum",
+    "group": "Astartes kardeşliği",
+    "summary": "Farklı rütbelerdeki Astarteslerin daha eşit bir ortamda bir araya geldiği gayriresmî savaşçı topluluğu.",
+    "wiki": "Warrior Lodge",
+    "related": [
+      "luna",
+      "mournival"
+    ],
+    "en": {
+      "kind": "Organisation",
+      "group": "Astartes fellowship",
+      "summary": "An informal warrior fellowship in which Astartes of different ranks meet on a more equal footing."
+    }
+  },
+  {
+    "id": "oath",
+    "name": "Oath of Moment",
+    "aliases": [
+      "oath of moment",
+      "oaths of moment"
+    ],
+    "kind": "Terim",
+    "group": "Astartes geleneği",
+    "summary": "Bir görev veya çarpışma öncesinde edilen, savaşçının belirli amacını ve yükümlülüğünü ortaya koyan yemin.",
+    "wiki": "Oath of Moment",
+    "related": [
+      "astartes"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Astartes tradition",
+      "summary": "An oath sworn before a mission or battle, setting out a warrior's particular objective and obligations."
+    }
+  },
+  {
+    "id": "compliance",
+    "name": "Compliance",
+    "aliases": [
+      "compliance"
+    ],
+    "kind": "Terim",
+    "group": "Büyük Haçlı Seferi",
+    "summary": "Bir dünyanın İmparatorluk yönetimini kabul etmesi ya da bu yönetime boyun eğdirilmesi için kullanılan sefer terimi.",
+    "wiki": "Compliance",
+    "related": [
+      "crusade",
+      "imperium"
+    ],
+    "en": {
+      "kind": "Term",
+      "group": "Great Crusade",
+      "summary": "The Great Crusade's term for a world accepting, or being brought under, Imperial rule."
+    }
+  },
+  {
+    "id": "custodes",
+    "name": "Legio Custodes",
+    "aliases": [
+      "Legio Custodes",
+      "Adeptus Custodes",
+      "Custodians",
+      "Custodes"
+    ],
+    "kind": "Kurum",
+    "group": "İmparator'un muhafızları",
+    "summary": "İmparator'u ve onun makamını koruyan seçkin savaşçılar. Astartes lejyonlarından ayrı bir kuruluştur.",
+    "wiki": "Adeptus Custodes",
+    "related": [
+      "emperor",
+      "terra"
+    ],
+    "en": {
+      "kind": "Organisation",
+      "group": "The Emperor’s guardians",
+      "summary": "The elite warriors who guard the Emperor and his seat of power. They are distinct from the Astartes Legions."
+    }
+  },
+  {
+    "id": "sisters",
+    "name": "Sisters of Silence",
+    "aliases": [
+      "Sisters of Silence",
+      "Sister of Silence"
+    ],
+    "kind": "Kurum",
+    "group": "İmparatorluk kuvvetleri",
+    "summary": "Psişik etkilere karşı özel nitelikleriyle tanınan ve sessizlik yemini taşıyan savaşçı teşkilatı.",
+    "wiki": "Sisters of Silence",
+    "related": [
+      "psyker",
+      "emperor"
+    ],
+    "en": {
+      "kind": "Organisation",
+      "group": "Imperial forces",
+      "summary": "A military order known for its special properties against psychic effects and its oath of silence."
+    }
+  },
+  {
+    "id": "huronfal",
+    "name": "Huron-Fal",
+    "aliases": [
+      "Huron-Fal"
+    ],
+    "kind": "Karakter",
+    "group": "Death Guard · Dreadnought",
+    "summary": "Death Guard saflarında görev yapan bir Dreadnought.",
+    "wiki": "Huron-Fal",
+    "related": [
+      "deathguard",
+      "dreadnought"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Death Guard · Dreadnought",
+      "summary": "A Dreadnought serving in the Death Guard."
+    }
+  },
+  {
+    "id": "ceramite",
+    "name": "Ceramite",
+    "aliases": [
+      "ceramite"
+    ],
+    "kind": "Teknoloji",
+    "group": "Zırh malzemesi",
+    "summary": "Astartes zırhlarında ve çeşitli savaş araçlarında kullanılan dayanıklı seramik esaslı malzeme.",
+    "wiki": "Ceramite",
+    "related": [
+      "powerarmour"
+    ],
+    "en": {
+      "kind": "Technology",
+      "group": "Armour material",
+      "summary": "A durable ceramic-based material used in Astartes armour and various military vehicles."
+    }
+  },
+  {
+    "id": "vipus",
+    "name": "Nero Vipus",
+    "aliases": [
+      "Nero Vipus",
+      "Vipus"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · X. Bölük",
+    "summary": "Garviel Loken’ın bölüğünde görev yapan kıdemli bir Luna Wolves savaşçısı.",
+    "wiki": "Nero Vipus",
+    "related": [
+      "loken",
+      "luna"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · 10th Company",
+      "summary": "A veteran Luna Wolves warrior serving in Garviel Loken's company."
+    }
+  },
+  {
+    "id": "jubal",
+    "name": "Xavyer Jubal",
+    "aliases": [
+      "Xavyer Jubal",
+      "Jubal"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · X. Bölük",
+    "summary": "Loken’ın komutasında görev yapan bir Luna Wolves subayı.",
+    "wiki": "Xavyer Jubal",
+    "related": [
+      "loken",
+      "luna"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · 10th Company",
+      "summary": "A Luna Wolves officer serving under Loken."
+    }
+  },
+  {
+    "id": "sedirae",
+    "name": "Luc Sedirae",
+    "aliases": [
+      "Luc Sedirae",
+      "Sedirae"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · Kaptan",
+    "summary": "Luna Wolves’un kıdemli kaptanlarından biri.",
+    "wiki": "Luc Sedirae",
+    "related": [
+      "luna",
+      "horus"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · Captain",
+      "summary": "One of the senior captains of the Luna Wolves."
+    }
+  },
+  {
+    "id": "targost",
+    "name": "Serghar Targost",
+    "aliases": [
+      "Serghar Targost",
+      "Targost"
+    ],
+    "kind": "Karakter",
+    "group": "Luna Wolves · Kaptan",
+    "summary": "Luna Wolves’un kaptanlarından biri; sefer filosunun askerî kadrosunda yer alır.",
+    "wiki": "Serghar Targost",
+    "related": [
+      "luna"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Luna Wolves · Captain",
+      "summary": "A Luna Wolves captain in the military complement of the expeditionary fleet."
+    }
+  },
+  {
+    "id": "vivar",
+    "name": "Petronella Vivar",
+    "aliases": [
+      "Petronella Vivar",
+      "Petronella",
+      "Vivar"
+    ],
+    "kind": "Karakter",
+    "group": "Remembrancer",
+    "summary": "False Gods’ta sefer filosuna katılan soylu kökenli bir remembrancer.",
+    "wiki": "Petronella Vivar",
+    "related": [
+      "remembrancer",
+      "horus"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Remembrancer",
+      "summary": "A remembrancer of noble birth who joins the expeditionary fleet in False Gods."
+    }
+  },
+  {
+    "id": "maggard",
+    "name": "Maggard",
+    "aliases": [
+      "Maggard"
+    ],
+    "kind": "Karakter",
+    "group": "Petronella Vivar’ın muhafızı",
+    "summary": "Petronella Vivar’a eşlik eden insan koruma ve hizmetkâr.",
+    "wiki": "Maggard",
+    "related": [
+      "vivar"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Petronella Vivar’s bodyguard",
+      "summary": "The human bodyguard and servant accompanying Petronella Vivar."
+    }
+  },
+  {
+    "id": "cassar",
+    "name": "Titus Cassar",
+    "aliases": [
+      "Titus Cassar",
+      "Cassar"
+    ],
+    "kind": "Karakter",
+    "group": "Legio Mortis · Titan mürettebatı",
+    "summary": "Dies Irae Titan’ının mürettebatında görev yapan bir moderati.",
+    "wiki": "Titus Cassar",
+    "related": [
+      "diesirae",
+      "titan"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Legio Mortis · Titan crew",
+      "summary": "A moderati serving in the crew of the Titan Dies Irae."
+    }
+  },
+  {
+    "id": "aruken",
+    "name": "Jonah Aruken",
+    "aliases": [
+      "Jonah Aruken",
+      "Aruken"
+    ],
+    "kind": "Karakter",
+    "group": "Legio Mortis · Titan mürettebatı",
+    "summary": "Dies Irae Titan’ında görev yapan bir moderati.",
+    "wiki": "Jonah Aruken",
+    "related": [
+      "diesirae",
+      "cassar"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Legio Mortis · Titan crew",
+      "summary": "A moderati serving aboard the Titan Dies Irae."
+    }
+  },
+  {
+    "id": "diesirae",
+    "name": "Dies Irae",
+    "aliases": [
+      "Dies Irae"
+    ],
+    "kind": "Teknoloji",
+    "group": "Legio Mortis · Imperator Titan",
+    "summary": "Legio Mortis’e bağlı devasa bir Imperator sınıfı Titan.",
+    "wiki": "Dies Irae",
+    "related": [
+      "titan",
+      "cassar"
+    ],
+    "en": {
+      "kind": "Technology",
+      "group": "Legio Mortis · Imperator Titan",
+      "summary": "An enormous Imperator-class Titan belonging to Legio Mortis."
+    }
+  },
+  {
+    "id": "ostian",
+    "name": "Ostian Delafour",
+    "aliases": [
+      "Ostian Delafour",
+      "Ostian",
+      "Delafour"
+    ],
+    "kind": "Karakter",
+    "group": "Remembrancer · Heykeltıraş",
+    "summary": "Fulgrim romanında Emperor’s Children filosuna eşlik eden heykeltıraş.",
+    "wiki": "Ostian Delafour",
+    "related": [
+      "remembrancer",
+      "children",
+      "serena"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Remembrancer · Sculptor",
+      "summary": "A sculptor accompanying the Emperor's Children fleet in the novel Fulgrim."
+    }
+  },
+  {
+    "id": "serena",
+    "name": "Serena d’Angelus",
+    "aliases": [
+      "Serena d'Angelus",
+      "Serena d’Angelus",
+      "Serena"
+    ],
+    "kind": "Karakter",
+    "group": "Remembrancer · Ressam",
+    "summary": "Emperor’s Children filosuna eşlik eden bir ressam ve remembrancer.",
+    "wiki": "Serena d'Angelus",
+    "related": [
+      "remembrancer",
+      "ostian"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Remembrancer · Painter",
+      "summary": "A painter and remembrancer accompanying the Emperor's Children fleet."
+    }
+  },
+  {
+    "id": "bequa",
+    "name": "Bequa Kynska",
+    "aliases": [
+      "Bequa Kynska",
+      "Bequa",
+      "Kynska"
+    ],
+    "kind": "Karakter",
+    "group": "Remembrancer · Besteci",
+    "summary": "Emperor’s Children filosundaki sanatçılar arasında yer alan besteci.",
+    "wiki": "Bequa Kynska",
+    "related": [
+      "remembrancer",
+      "children"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Remembrancer · Composer",
+      "summary": "A composer among the artists accompanying the Emperor's Children fleet."
+    }
+  },
+  {
+    "id": "laer",
+    "name": "Laer",
+    "aliases": [
+      "Laer",
+      "Laeran"
+    ],
+    "kind": "Tür",
+    "group": "Büyük Haçlı Seferi · Xenos",
+    "summary": "Fulgrim romanında Emperor’s Children’ın karşılaştığı insan olmayan tür. Laeran, bu türün dünyasıyla bağlantılı addır.",
+    "wiki": "Laer",
+    "related": [
+      "xenos",
+      "children"
+    ],
+    "en": {
+      "kind": "Species",
+      "group": "Great Crusade · Xenos",
+      "summary": "A non-human species encountered by the Emperor's Children in Fulgrim. Laeran is a name associated with the species' world."
+    }
+  },
+  {
+    "id": "kendel",
+    "name": "Amendera Kendel",
+    "aliases": [
+      "Amendera Kendel",
+      "Kendel"
+    ],
+    "kind": "Karakter",
+    "group": "Sisters of Silence",
+    "summary": "Sisters of Silence saflarında görev yapan bir subay.",
+    "wiki": "Amendera Kendel",
+    "related": [
+      "sisters",
+      "garro"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Sisters of Silence",
+      "summary": "An officer serving in the Sisters of Silence."
+    }
+  },
+  {
+    "id": "eldrad",
+    "name": "Eldrad Ulthran",
+    "aliases": [
+      "Eldrad Ulthran",
+      "Eldrad"
+    ],
+    "kind": "Karakter",
+    "group": "Aeldari · Farseer",
+    "summary": "Aeldari halkına mensup, geleceğin olasılıklarını araştıran bir farseer.",
+    "wiki": "Eldrad Ulthran",
+    "related": [
+      "xenos",
+      "psyker"
+    ],
+    "en": {
+      "kind": "Character",
+      "group": "Aeldari · Farseer",
+      "summary": "An Aeldari farseer who explores the possible paths of the future."
+    }
+  }
+]
